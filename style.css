@@ -1,0 +1,25 @@
+.site-header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+.logo {
+    margin-right: auto;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+
+}
+
+header li {
+    list-style: none;
+    display: inline-block;
+    padding: 0 12px;
+    margin: 0 5px;
+}
